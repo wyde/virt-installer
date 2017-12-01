@@ -33,8 +33,8 @@ copy directory and modify *.sh and *.sh inside
 ```
 
 ## Changelog
-0.0.20171019
-0.0.20171201
+- 0.0.20171019
+- 0.0.20171201
 
 ## License
 MIT
