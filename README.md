@@ -14,10 +14,8 @@ Virt-Installer
 - virt-install with kickstart file on CentOS 7
 
 ## Developement Env
-### OS: CentOS 7
-### Developing Language: Bash Shell
-
-### Note:
+- OS: CentOS 7
+- Developing Language: Bash Shell
 
 ## Changelog
 0.0.20171019
